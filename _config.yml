@@ -1,0 +1,28 @@
+name: acsmith02
+favicon: null
+layout_spectrum: 0.8583703732583672
+typography_spectrum: 0.984654591884464
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.742529537063092
+  lightness: 0.4008592253085226
+  saturation: 0.9096411429345608
+  rhythmicContrast: 0.9169129130896181
+purpose: []
